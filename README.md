@@ -28,8 +28,7 @@ lets their engineers calculate the volume of a 3D scanned hole on the go.
 
 ##Where will it be?
 
-The challenge will run on Wednesday afternoons (1300-1500, in R3.41 Ramphal
-Building) starting on the 28th of October and will continue for 4 weeks. The teams
+The challenge will run on Wednesday afternoons (1300-1500, Location will vary) starting on the 28th of October and will continue for 4 weeks. The teams
 will then be asked to present their solutions to a panel of judges at the end. Each
 member of the winning team will receive an iPad Air 2 as well as a Nexus 5X.
 Further details of the competition will be explained at the first session. Teams will
